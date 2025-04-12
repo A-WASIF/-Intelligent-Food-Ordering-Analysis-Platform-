@@ -66,6 +66,8 @@ To set up the project locally, follow these steps:
    
 
 3. **Run the Scripts**:
+   - run backend : python app.py
+   - run frontend : npm start
    - Extract data:
      bash
      python scripts/data_extraction.py
