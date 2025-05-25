@@ -116,7 +116,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-For any questions or issues, please contact the repository owner: [Aditya](https://github.com/aditya22041).
+For any questions or issues, please contact the repository owner: [WASIF](https://github.com/A-WASIF).
 
 
 ---
